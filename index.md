@@ -40,7 +40,6 @@
 - [冬馬のTwitterはこちら](https://twitter.com/)
 - 📨⇨vic_drum432@yahoo.co.jp
 
-
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History 
