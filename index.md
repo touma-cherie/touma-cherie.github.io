@@ -17,6 +17,7 @@
 - Bootstamp
 - GitHub pages
 - markdown
+- Photoshop
 - 調理師免許
 - 介護職員初任者研修
 
@@ -28,12 +29,16 @@
 - [Blog]  
   - [music-life](https://music-life1.com)  
     
-- [作った作品]   
+- [作った作品]  
+✅Photoshop  
+<img src="Naoto完成.jpg" width="300">  
+<img src="ukai完成.jpg" width="300">  
+<img src="touma完成.jpg" width="300">  
+
+✅Programing  
   - [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)  
   - [webアプリケーション]  
 <iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="550" height="320"></iframe>  
-  
-    
     
 - [Youtube]  
     
