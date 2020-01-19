@@ -33,8 +33,7 @@
 
 # Contact
 - [冬馬のTwitterはこちら](https://twitter.com/)
-- 📨  
-vic_drum432@yahoo.co.jp
+- 📨⇨vic_drum432@yahoo.co.jp
 
 # History 
 2015年 調理師免許独学取得  
