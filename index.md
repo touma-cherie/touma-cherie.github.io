@@ -6,7 +6,7 @@
 
 
 ## Profile
-- 冬馬(@toumacherie)
+- 冬馬 (@toumacherie)
 - 岐阜県
 - プログラミング、 音楽(Percussion)、  調理
 
@@ -21,7 +21,7 @@
 - 介護職員初任者研修
 
 # Works
-- [音楽]  
+- [音楽活動]  
   - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
   - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
   
@@ -38,7 +38,7 @@
 - [Youtube]  
     
 <iframe width="550" height="320" src="https://www.youtube.com/embed/a7o34Yi7a3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+　　
 # History 
 2012年 Jazz singer 『Keiko Lee』と共演  
 2014年 調理師免許独学取得  
