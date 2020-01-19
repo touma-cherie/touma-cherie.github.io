@@ -36,7 +36,7 @@
 - [Mail](vic_drum432@yahoo.co.jp)
 
 # History 
-201５年 調理師免許独学取得
-2018年 介護職員初任者研修資格取得
-2018年 orangeblossom One-manLive 満員御礼
+2015年 調理師免許独学取得  
+2018年 介護職員初任者研修資格取得  
+2018年 orangeblossom One-manLive 満員御礼  
 2019年 orangeblossom$そらしの Two-manLive満員御礼
