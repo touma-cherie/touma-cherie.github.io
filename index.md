@@ -1,4 +1,4 @@
-<img src="IMG_6960.JPG" width="300">
+<img src="IMG_6960.JPG" width="360">
 
 # About
 音楽歴13年、調理歴5年の私がプログラミングを利用し、  
