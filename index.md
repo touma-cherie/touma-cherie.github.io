@@ -1,17 +1,18 @@
 # About
-音楽歴13年、調理師免許取得の私がプログラミングを利用し、
+音楽歴13年、調理師免許取得の私がプログラミングを利用し、  
 これまでの経験、知識を公開していきます。
 
 
 ## Profile
 - 冬馬　(@toumacherie)
 - 岐阜県
-- プログラミング 音楽(ドラム)  料理
+- プログラミング 音楽(Percussion)  調理
 
 # Skills
 - HTML & CSS
 - Wordpress
 - Javascript
+- Bootstamp
 - GitHub pages
 - markdown
 - 調理師免許
