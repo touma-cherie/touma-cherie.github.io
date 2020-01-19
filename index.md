@@ -24,7 +24,7 @@
   - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
 
 - Blog 
-  - [https://music-life1.com]
+  - [music-life](https://music-life1.com)
  
 - 作った作品  
   - [Apacible vientER ホームページ](https://apavierinfo.wixsite.com/apacible-vienter)
