@@ -4,7 +4,7 @@
 
 
 ## Profile
-- 冬馬　(@toumacherie)
+- 冬馬(@toumacherie)
 - 岐阜県
 - プログラミング、 音楽(Percussion)、  調理
 
