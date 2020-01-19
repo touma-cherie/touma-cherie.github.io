@@ -31,11 +31,11 @@
 - [作った作品]   
   - [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)  
 [webアプリケーション]  
-<iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="400" height="300"></iframe>  
+<iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="550" height="320"></iframe>  
   
 - [Youtube]  
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a7o34Yi7a3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="550" height="320" src="https://www.youtube.com/embed/a7o34Yi7a3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Contact
