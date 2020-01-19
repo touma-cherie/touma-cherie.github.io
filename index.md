@@ -19,14 +19,14 @@
 - 介護職員初任者研修
 
 # Works
-- [音楽] 
+- [音楽]  
   - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
   - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
   
-- Blog 
+- [Blog]  
   - [music-life](https://music-life1.com)  
     
-- 作った作品  
+- [作った作品]   
   - [Apacible vientER ホームページ](https://apavierinfo.wixsite.com/apacible-vienter)
   - [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)
 
