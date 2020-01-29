@@ -12,9 +12,10 @@
 
 # Skills
 - HTML & CSS
+- PHP
 - Wordpress
 - Javascript
-- Bootstamp
+- Bootstrap
 - GitHub pages
 - markdown
 - Photoshop
