@@ -53,9 +53,9 @@
 
 # Works
 <div class="work">
-    - [音楽活動]  
-      - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
-      - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
+    <p>- [音楽活動]</p>
+      <p>- [orangeblossom HP](https://orangeblossom3.amebaownd.com/)</p>
+      <p>- [orangeblossom Twitter](https://twitter.com/OB8Ensemble)</p>
 </div>
     
 - [作った作品] 
