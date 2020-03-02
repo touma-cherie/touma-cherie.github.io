@@ -1,17 +1,9 @@
 <head>
   <style>
     .site {
-    
-      ul {
-    　　 list-style: none;
-       
-        li {
          display:flex;
-        
-          img {
-          padding: 0 50px;
-          }
-        }
+      img {
+         padding: 0 100px;
       }
     }
   </style>
@@ -69,15 +61,19 @@
 ✅Programing
   - [サイト摸写]
   <div class="site">
-    <ul>
-      <li><img src="Airbnb-PC画面.png" height="500"></li>
-      <li><img src="Airbnb-タブレット画面.png" height="500"></li>
-      <li><img src="Airbnb-携帯画面.png" height="500"></li>
-    </ul>
+  <✔︎PC画面>
+    <img src="Airbnb-PC画面.png" height="500">
+  <✔︎タブレット画面>
+    <img src="Airbnb-タブレット画面.png" height="500">
+  <✔︎携帯画面>
+    <img src="Airbnb-携帯画面.png" height="500">
   </div>
   
   
+  
   - [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)  
+  
+  
   - [webアプリケーション]  
 <iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="550" height="320"></iframe>  
     
