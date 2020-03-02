@@ -1,8 +1,18 @@
 <head>
   <style>
     .site {
-       display:flex;
-    margin:50px;
+    
+      ul {
+      
+        li {
+         display:flex;
+        
+          img {
+           list-style: none;
+          padding: 0 50px;
+          }
+        }
+      }
     }
   </style>
 </head>
@@ -59,9 +69,11 @@
 ✅Programing
   - [サイト摸写]
   <div class="site">
-    <img src="Airbnb-PC画面.png" height="500">
-    <img src="Airbnb-タブレット画面.png" height="500">
-    <img src="Airbnb-携帯画面.png" height="500">
+    <ul>
+      <li><img src="Airbnb-PC画面.png" height="500"></li>
+      <li><img src="Airbnb-タブレット画面.png" height="500"></li>
+      <li><img src="Airbnb-携帯画面.png" height="500"></li>
+    </ul>
   </div>
   
   
