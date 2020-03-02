@@ -1,6 +1,7 @@
 <head>
   <style>
     .site {
+    border: 1px solid #606060;
          display:flex;
       img {
          padding: 0 100px;
@@ -60,6 +61,7 @@
 
 ✅Programing
   - [サイト摸写]
+  
   <div class="site">
   <✔︎PC画面>
     <img src="Airbnb-PC画面.png" height="500">
