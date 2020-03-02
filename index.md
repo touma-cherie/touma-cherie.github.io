@@ -73,10 +73,9 @@
 【サイト摸写】
   
   <div class="site">
-    <img src="Airbnb-PC画面.png" height="500" max-width="40%">
-    <img src="Airbnb-タブレット画面.png" height="500" max-width="40%">
-    <img src="Airbnb-携帯画面.png" height="500" max-width="40%">
-    <img src="LINE.png" height="500" max-width="40%">
+    <img src="Airbnb-PC画面.png" height="500" max-width="50%">
+  <br>
+    <img src="LINE.png" height="500" max-width="50%">
   </div>
   
   【Webサイト制作】
