@@ -1,7 +1,6 @@
 <head>
   <style>
     .site {
-    border: ０.３px solid #606060;
          display:flex;
         margin: 20px;
         img {
@@ -77,8 +76,7 @@
   
  
   
-- [あなたのいいところ診断]
-(https://touma-cherie.github.io/assessment/assessment.html)  
+- [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)  
   
   
 - [webアプリケーション]  
@@ -86,7 +84,8 @@
 <iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="550" height="320"></iframe>  
     
     
-- [Youtube]  
+- [Youtubeはこちら]
+
     
 <iframe width="550" height="320" src="https://www.youtube.com/embed/a7o34Yi7a3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 　　
@@ -103,9 +102,9 @@
 # Contact
 - 📨⇨vic_drum432@yahoo.co.jp
 
-- [Facebookはこちら](https://www.facebook.com/kenji.drum.touma)
+- [Facebook](https://www.facebook.com/kenji.drum.touma)
 
-- [Twitterはこちら](https://twitter.com/)
+- [Twitterチャンネル](https://twitter.com/)
 
 
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
