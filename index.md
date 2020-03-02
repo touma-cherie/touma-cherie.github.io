@@ -1,11 +1,14 @@
 <head>
   <style>
     .site {
-         display:flex;
-        margin: 20px;
-        img {
-          padding: 10px;
+      display:flex;
+      margin: 20px;
+      img {
+        padding: 10px;
         }
+    }
+    .work {
+      margin-bottom: 20px;
     }
   </style>
 </head>
@@ -49,10 +52,11 @@
 
 
 # Works
-- [音楽活動]  
-  - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
-  - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
-  
+<div class="work">
+    - [音楽活動]  
+      - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
+      - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
+</div>
     
 - [作った作品] 
 
@@ -104,7 +108,7 @@
 
 - [Facebook](https://www.facebook.com/kenji.drum.touma)
 
-- [Twitterチャンネル](https://twitter.com/)
+- [Twitterはこちら](https://twitter.com/)
 
 
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
