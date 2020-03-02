@@ -6,7 +6,7 @@
     .site {
       display:flex;
       margin: 20px;
-      img {
+      .prof {
         padding: 10px;
       }
     }
@@ -22,7 +22,7 @@
   </style>
 </head>
 
-<img src="IMG_6960.JPG" width="360">
+<img clas="prof" src="IMG_6960.JPG" width="360">
 
 # About
 音楽歴13年、調理歴5年の私がプログラミングを利用し、  
