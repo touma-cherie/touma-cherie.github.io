@@ -13,6 +13,9 @@
           list-style: none;
         }
      }
+    .twitter {
+      display: flex;
+    }
   </style>
 </head>
 
@@ -113,8 +116,9 @@
 
 - [Twitterはこちら](https://twitter.com/)
 
-
+<div class="twitter">
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/kenji_0058?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/kenji_0058?ref_src=twsrc%5Etfw">Tweets by kenji_0058</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
