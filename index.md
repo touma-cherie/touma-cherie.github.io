@@ -5,11 +5,14 @@
       margin: 20px;
       img {
         padding: 10px;
-        }
+      }
     }
     .work {
       margin-bottom: 20px;
-    }
+        li {
+          list-style: none;
+        }
+     }
   </style>
 </head>
 
@@ -54,8 +57,8 @@
 # Works
 <div class="work">
     <p>- [音楽活動]</p>
-      <a href="https://orangeblossom3.amebaownd.com/">- [orangeblossom HP]</a>
-      <a href="https://twitter.com/OB8Ensemble">- [orangeblossom Twitter]</a>
+    <li><a href="https://orangeblossom3.amebaownd.com/">- [orangeblossom HP]</a></li>
+    <li><a href="https://twitter.com/OB8Ensemble">- [orangeblossom Twitter]</a></li>
 </div>
     
 - [作った作品] 
