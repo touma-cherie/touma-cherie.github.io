@@ -61,13 +61,14 @@
 
 
 # Works
-<div class="work">
-    <p>- [音楽活動]</p>
-    <li><a href="https://orangeblossom3.amebaownd.com/">- [orangeblossom HP]</a></li>
-    <li><a href="https://twitter.com/OB8Ensemble">- [orangeblossom Twitter]</a></li>
-</div>
-    
-- [作った作品] 
+
+【音楽活動】
+- [orangeblossom HP](https://orangeblossom3.amebaownd.com)
+- [orangeblossom Twitter](https://twitter.com/OB8Ensemble)
+
+
+
+【制作物】
 
 ✅Photoshop
 
@@ -75,8 +76,10 @@
 <img src="ukai完成.jpg" width="300">  
 <img src="touma完成.jpg" width="300">  
 
-✅Programing
-  - 【サイト摸写】
+
+✅Programming
+
+【サイト摸写】
   
   <div class="site">
   <✔︎PC画面>
@@ -87,8 +90,8 @@
     <img src="Airbnb-携帯画面.png" height="500">
   </div>
   
-  【Webmサイト制作】
-  - 『Apacible vientER』 公式ホームページ(https://apavierinfo.wixsite.com/apacible-vienter)
+  【Webサイト制作】
+  - [Apacible vientER 公式ホームページ](https://apavierinfo.wixsite.com/apacible-vienter)
   
  
   
