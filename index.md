@@ -3,9 +3,6 @@
     .site {
     border: 1px solid #606060;
          display:flex;
-      img {
-         padding: 0 100px;
-      }
     }
   </style>
 </head>
