@@ -1,7 +1,7 @@
 <head>
   <style>
     .site {
-    border: 1px solid #606060;
+    border: ０.３px solid #606060;
          display:flex;
         margin: 20px;
         img {
@@ -20,7 +20,7 @@
 
 ## Profile
 - [名前] 遠松賢二
-- [芸名] 冬馬
+- [アーティスト名] 冬馬
 - [出身] 岐阜県
 - [スキル]プログラミング、音楽(drum,Percussion)、調理
 
@@ -48,20 +48,23 @@
 【介護】
   - 介護職員初任者研修
 
+
 # Works
 - [音楽活動]  
   - [orangeblossom HP](https://orangeblossom3.amebaownd.com/)  
   - [orangeblossom Twitter](https://twitter.com/OB8Ensemble)  
   
     
-- [作った作品]  
-✅Photoshop  
+- [作った作品] 
+
+✅Photoshop
+
 <img src="Naoto完成.jpg" width="300">  
 <img src="ukai完成.jpg" width="300">  
 <img src="touma完成.jpg" width="300">  
 
 ✅Programing
-  - [サイト摸写]
+  - 【サイト摸写】
   
   <div class="site">
   <✔︎PC画面>
@@ -72,12 +75,14 @@
     <img src="Airbnb-携帯画面.png" height="500">
   </div>
   
+ 
+  
+- [あなたのいいところ診断]
+(https://touma-cherie.github.io/assessment/assessment.html)  
   
   
-  - [あなたのいいところ診断](https://touma-cherie.github.io/assessment/assessment.html)  
-  
-  
-  - [webアプリケーション]  
+- [webアプリケーション]  
+【Open processing】
 <iframe src="https://www.openprocessing.org/sketch/825165/embed/" width="550" height="320"></iframe>  
     
     
