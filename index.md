@@ -31,6 +31,7 @@
 
 【Programming】
   - HTML & CSS
+  - Responsive対応
   - PHP
   - Wordpress
   - Javascript
@@ -73,7 +74,7 @@
 【サイト摸写】
   
   <div class="site">
-    <img src="Airbnb-PC画面.png" height="500" max-width="50%">
+    <img src="Airbnb-PC画面.png" height="500" max-width="８0%">
   <br>
     <img src="LINE.png" height="500" max-width="50%">
   </div>
