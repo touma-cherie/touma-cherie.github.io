@@ -1,5 +1,8 @@
 <head>
   <style>
+    img {
+      float:right;
+    }
     .site {
       display:flex;
       margin: 20px;
