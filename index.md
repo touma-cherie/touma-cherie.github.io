@@ -1,15 +1,6 @@
 <head>
   <style>
-    .prof {
-      float:right;
-    }
-    .site {
-      display:flex;
-      margin: 20px;
-      img {
-        padding: 10px;
-      }
-    }
+
     .work {
       margin-bottom: 20px;
         li {
