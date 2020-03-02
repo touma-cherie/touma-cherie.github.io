@@ -115,4 +115,6 @@
 
 
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/kenji_0058?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
