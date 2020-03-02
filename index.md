@@ -1,12 +1,12 @@
 <head>
   <style>
-    img {
+    .prof {
       float:right;
     }
     .site {
       display:flex;
       margin: 20px;
-      .prof {
+      img {
         padding: 10px;
       }
     }
