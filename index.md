@@ -81,12 +81,16 @@
 - 2018年 介護職員初任者研修資格取得  
 - 2018年 orangeblossom One-manLive 満員御礼  
 - 2019年 orange-blossom & そらしの Two-manLive満員御礼
+- 2019年 プログラミング独学開始
 
 
 # Contact
 - 📨⇨vic_drum432@yahoo.co.jp
 
-- [冬馬のTwitterはこちら](https://twitter.com/)
+- [Facebookはこちら](https://www.facebook.com/kenji.drum.touma)
+
+- [Twitterはこちら](https://twitter.com/)
+
 
 <a class="twitter-timeline" data-width="430" data-height="630" data-theme="dark" href="https://twitter.com/toumacherie?ref_src=twsrc%5Etfw">Tweets by toumacherie</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
