@@ -3,12 +3,12 @@
     .site {
     
       ul {
-      
+    　　 list-style: none;
+       
         li {
          display:flex;
         
           img {
-           list-style: none;
           padding: 0 50px;
           }
         }
